@@ -4,16 +4,7 @@
   <url>
     <loc>https://welcometoourproject.github.io/about/index.html</loc>
     
-    <lastmod>2021-12-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://welcometoourproject.github.io/2021/11/17/%E6%9C%9F%E4%B8%AD%E4%BD%9C%E4%B8%9A%E8%AE%BE%E8%AE%A1/</loc>
-    
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2022-01-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -21,6 +12,15 @@
   
   <url>
     <loc>https://welcometoourproject.github.io/2021/12/11/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A%E8%AE%BE%E8%AE%A1/</loc>
+    
+    <lastmod>2022-01-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://welcometoourproject.github.io/2021/11/17/%E6%9C%9F%E4%B8%AD%E4%BD%9C%E4%B8%9A%E8%AE%BE%E8%AE%A1/</loc>
     
     <lastmod>2021-12-12</lastmod>
     
@@ -58,7 +58,7 @@
 
   <url>
     <loc>https://welcometoourproject.github.io/</loc>
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,14 +66,14 @@
   
   <url>
     <loc>https://welcometoourproject.github.io/tags/%E6%9C%9F%E4%B8%AD/</loc>
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://welcometoourproject.github.io/tags/%E6%9C%9F%E6%9C%AB/</loc>
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -82,7 +82,7 @@
   
   <url>
     <loc>https://welcometoourproject.github.io/categories/2021-02%E6%9C%9F%E4%BB%A3%E7%A0%81%E5%88%B0%E5%AE%9E%E7%89%A9/</loc>
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
